@@ -20,3 +20,10 @@
 
 ![1](https://github.com/ngngs/OrderWithDiscount/assets/47618270/a61a1858-c6b0-4a69-bba0-da2dcce8e62a)
 ![2](https://github.com/ngngs/OrderWithDiscount/assets/47618270/25b87411-93b3-40e8-8a9a-0064311db53a)
+
+
+## 회원 도메인 설계의 문제점
+- (1) 다른 저장소로 변경할 때 OCP 원칙을 준수하는가?
+- (2) DIP를 지키고 있는가?
+- (3) 의존관계가 인터페이스 뿐만 아니라 구현까지 모두 의존하는 문제점이 있음 (new ~() 인터페이스 및 구현체 둘 다에 의존)
+
