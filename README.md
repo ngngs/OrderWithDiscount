@@ -37,3 +37,9 @@
 
 ## 주문 도메인 클래스 다이어그램
 ![3](https://github.com/ngngs/OrderWithDiscount/assets/47618270/0e7e9510-e1bb-442b-be63-a9608eea6812)
+
+
+# 새로운 할인 정책 개발
+- 객체지향 설계 원칙을 준수했다면 이런 변화에도 쉽게 적용할 수 있어야한다
+![1](https://github.com/ngngs/OrderWithDiscount/assets/47618270/74469d71-c559-4aa2-98a9-4807a36e3bab)
+
